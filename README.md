@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sukalyan Bisui</h1>
 <h3 align="center">A 3rd Year B.E. Student from Kolkata,India</h3>
 
-- 🌱 I’m currently learning **Deep Learning.**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 💬 Ask me about **Data Science,ML and Deep Learning.**
 
